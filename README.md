@@ -66,11 +66,6 @@ This script applies the form settings in the given order:
 This allows to upload a file in a given directory and immediately execute it in
 a single HTTP request.
 
-More information can be found on the [main project page][].
-
 This script is provided only for security research and assessment purposes.
 Do not use it for anything illegal!
 
-
-[main project page]: https://www.whitewinterwolf.com/tags/php-webshell/
-	"wwwolf's PHP webshell project page"
